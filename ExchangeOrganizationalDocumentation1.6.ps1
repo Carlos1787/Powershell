@@ -1,7 +1,5 @@
 <#
-.TODO
-Update Exchange Admin version https://www.alitajran.com/find-exchange-version-with-powershell/
-Get virtual directories, then query DNS
+
 .SYNOPSIS
 	Document Exchange Environment ON prem.
 	Gather server info
